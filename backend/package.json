@@ -22,5 +22,9 @@
     "prisma": "^6.5.0"
   },
   "keywords": [],
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
   "description": ""
 }
